@@ -88,82 +88,319 @@ span
 }
 
 
-.baaa
+.aa
 {
     background-color: #D3D3D3;
 }
-.ba11
+.boss
 {
     text-align: center;
     color:#DAA520;
 
+
 }
-.ba33
+.boss1{
+	width:400px;
+	line-height: 0.3;
+}
+.phone
 {
     text-align: center;
     color:#696969;
+    line-height: 0.5;
 }
-.work0
+.boss3
 {
-
+   
     width: 400px;
     height: 300px;
     float: left;
-    padding: 10px;
-    margin-left: 60px;
+    margin-left: 40px;
 }
-.work11
+.boss2
 {
     width: 100px;
-    height: 50px;
+    height: 90px;
+    float: left;
 }
-.work44
+.boss4
 {
-    font-family: TimesNewRoman;
+   
     font-size: 20px;
+    float: left;
+
 }
-.lab0
+
+
+.bosss
+{
+	float: left;
+    width: 300px;
+    height: 350px;
+   
+    margin-left: 90px;
+}
+.bosss1
+{
+  
+    font-size: 20px;
+    float: left;
+
+}
+.bosss2
+{
+	float: left;
+    width: 320px;
+    height: 350px;
+   
+    margin-left: 80px;
+}
+.bosss3
+{
+    
+    font-size: 20px;
+    float: left;
+
+}
+.kavi{
+	margin-top: 400px;
+}
+
+.must
 {
     padding-left: 60px;
+    margin-bottom: 200px;
+
+
+
 }
-.lab22
+.must2
 {
     text-decoration: none;
     
 }
-.la11
+.must1
 {
     background-color: #E6E6FA;
-    width: 300px;
+    width: 260px;
     height: 50px;
     margin-left: 60px;
     color:black;
-
+   margin-bottom:200px; 
 }
-.bala0
+.team
 {
     margin-left: 60px;
     background-color: darkgray;
     width: 1380px;
     height: 200px;
 }
-.bala11
+.team1
 {
 
     padding-left: 30px;
 }
-.bala33
+.team2
 {
     font-family: TimesNewRoman;
     font-size: 20px;
-    padding-left: 30px;
+   color: chocolate;
 
 }
-.bha0
+.tamil
 {
     padding-left: 60px;
 }
+.charge{
+	width: 1340px;
+	height: 500px;
+}
+.charge1{
+	float: left;
+	boder:1px solid white;
+
+}
+.charge2{
+height: 400px;
+width: 400px;
+margin-left: 20px;
+
+
+}
+.charge3{
+	color:white;
+	font-size: 20px;
+	padding-left: 140px;
+	border:2px solid white;
+	margin-left: 20px;
+
+}
+.charge3:hover{
+	color: pink;
+	border-color: brown;
+}
+.charge22{
+	width: 400px;
+	height: 400px;
+	margin-left: 20px;
+}
+.charge33{
+	color: white;
+	font-size: 20px;
+	padding-left: 140px;
+	border:2px solid white ;
+	margin-left: 20px;
+
+}
+.charge33:hover{
+	color: pink;
+	border-color: brown;
+}
+.charge44{
+	width: 400px;
+	height: 400px;
+	margin-left: 20px;
+}
+.charge45{
+	color: white;
+	font-size: 20px;
+	border: 2px solid white;
+	padding-left: 140px;
+   margin-left: 20px;
+}
+.charge45:hover{
+
+    color: pink;
+	border-color: brown;
+}
+.charge46{
+	color: #D2B48C;
+	font-size: 20px;
+	padding-left: 140px;
+	line-height: 0.3;
+
+
+}
 
 
 
 
+
+/*--------------------------------stard third section----------------------------------------------------*/
+.date{
+	background-color: #D3D3D3;
+}
+.date1{
+
+ text-align: center;
+    color:#DAA520;
+    border-bottom: 1px solid #DAA520;
+
+}
+.date2{
+	color: red;
+	text-align: center;
+	font-size: 20px;
+	line-height: 0.1;
+}
+.date3{
+	text-align: center;
+	color: red;
+	font-size: 20px;
+	line-height: 0.1;
+}
+
+.date4
+{
+	list-style-type: none;
+
+}
+.listt
+{
+	display: inline;
+	background-color: white;
+	
+	margin-left: 10px;
+}
+.linkk
+{
+	text-decoration: none;
+	color:brown;
+	font-family: serif;
+	font-weight: bold;
+}
+.linkk:hover{
+	background-color: white;
+
+	border-radius: 20px;
+	width: 30px;
+}
+.listt a:hover
+{
+	color:chocolate;
+	text-decoration: underline;
+}
+.date5{
+	width: 1340px;
+	height: 1100px;
+}
+.date6{
+	float: left;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.date7{
+	float: left;
+	padding-left:20px;
+	padding-top: 20px;
+
+}
+.date8{
+	float: left;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.date9{
+	float: left;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.date11{
+	float: left;
+	padding-left: 20px;
+    padding-top: 20px;
+}
+.date12{
+	float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.date13{
+	float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.date14{
+	float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.date15{
+	float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.date16{
+	
+	float: left;
+	font-size: 22px;
+	font-family: Georgia;
+	
+	border:1px solid white;
+	margin-left: 590px;
+	color:pink;
+}
+.date16:hover{
+	color: white;
+	border:1px solid cyan;
+}
