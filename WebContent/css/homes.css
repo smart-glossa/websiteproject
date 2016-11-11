@@ -184,9 +184,9 @@ span
     background-color: #E6E6FA;
     width: 260px;
     height: 50px;
-    margin-left: 60px;
+    margin-left:60px;
     color:black;
-   margin-bottom:200px; 
+   margin-top: -140px; 
 }
 .team
 {
@@ -398,7 +398,7 @@ margin-left: 20px;
 	
 	border:1px solid white;
 	margin-left: 590px;
-	color:pink;
+	color:megenda;
 }
 .date16:hover{
 	color: white;

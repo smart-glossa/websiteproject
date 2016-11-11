@@ -579,11 +579,11 @@ var lab8=document.createElement("button");
       divi.appendChild(t);
       var u=document.createElement("img");
       u.setAttribute("src","E:/sp/Board/20.jpg");
-      t.appendChild(u);
 
       var v=document.createElement("div");
       v.setAttribute("class","date14");
       divi.appendChild(v);
+      t.appendChild(u);
       var w=document.createElement("img");
       w.setAttribute("src","E:/sp/Board/21.jpg");
       v.appendChild(w);
@@ -603,7 +603,7 @@ var lab8=document.createElement("button");
       z.setAttribute("class","date16");
       var z1=document.createTextNode("LOAD MORE");
       z.appendChild(z1);
-      sec3.appendChild(z);
+     divi.appendChild(z);
 
 
 
